@@ -53,6 +53,9 @@ o	Users can type "done" to finish entering grades.
 o	The results are displayed in a well-formatted manner, making the output easily understandable.
 
 Input Validation:
-o	The program ensures that all grades entered are valid (numeric values between 0 and 100).
+o	The program ensures that all grades entered are valid (numeric values between 0 and 100)
 o	Invalid inputs prompt the user to re-enter the grade.
+
+![scg](https://github.com/user-attachments/assets/73f73451-a01c-4079-a337-44c27a6eb455)
+
 
